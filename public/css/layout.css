@@ -532,6 +532,9 @@ ul#nav li.current a {
 }
 .portfolio-item .item-wrap img {
     vertical-align: bottom;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #a1a1a1;
 }
 .portfolio-item .portfolio-item-meta {
     padding: 18px;

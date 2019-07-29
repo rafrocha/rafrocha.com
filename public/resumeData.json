@@ -100,34 +100,34 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Canadian Wanderlust",
-                "category": "My Travel Blog for my post-university travels",
-                "image": "canadian-wanderlust.jpg",
-                "url": "https://www.canadianwanderlust.com"
+                "title": "Horde Land",
+                "category": "Multiplayer Online 2-D shooting game. No game engine used",
+                "image": "hordeland.png",
+                "url": "http://hordeland.herokuapp.com"
             },
             {
-                "title": "Fury Fighting Gear",
-                "category": "(offline now) A fighting gear company I started",
-                "image": "fury-fighting-gear.jpg",
-                "url": "http://www.timbakerdev.com"
+                "title": "Chatty",
+                "category": "A React chat app built during Bootcamp. Github link. App not hosted",
+                "image": "chatty.png",
+                "url": "https://github.com/rafrocha/ChattyApp"
             },
             {
-                "title": "Original Thai Food",
-                "category": "Website I built for a restaurant I like in Thailand",
-                "image": "original-thai-food.jpg",
-                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+                "title": "Bendito's",
+                "category": "Mock single restaurant order pick-up web app with Twillio API integration",
+                "image": "bendito.png",
+                "url": "http://bendito.herokuapp.com"
             },
             {
                 "title": "Resume Website",
-                "category": "A React based resume website template",
-                "image": "resume-website.jpg",
-                "url": "http://www.timbakerdev.com"
+                "category": "A React based resume website",
+                "image": "resume.png",
+                "url": "https://www.rafrocha.com"
             },
             {
-                "title": "Smirkspace",
-                "category": "(MVP Only) A React and Meteor based chat University project.",
-                "image": "smirkspace.jpg",
-                "url": "http://www.smirkspace.com"
+                "title": "Oinker",
+                "category": "A very simple themed twitter clone. Built with jQuery and MongoDB",
+                "image": "oinker.png",
+                "url": "http://oinkerapp.herokuapp.com/"
             }
         ]
     }
