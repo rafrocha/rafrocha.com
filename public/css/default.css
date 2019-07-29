@@ -278,6 +278,15 @@ p {
 p img {
     margin: 0;
 }
+
+.medium-logo {
+    width: 3%;
+}
+
+.large-logo {
+    width: 5%;
+}
+
 p.lead {
     font: 19px/36px "opensans-light", sans-serif;
     margin-bottom: 18px;

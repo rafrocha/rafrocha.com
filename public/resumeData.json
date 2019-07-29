@@ -12,7 +12,7 @@
             "state": "British Columbia"
         },
         "website": "http://www.rafrocha.com",
-        "resumedownload": "http://rafrocha.com",
+        "resumedownload": "RafaelRocha_Resume.pdf",
         "social": [
             {
                 "name": "facebook",
@@ -37,33 +37,73 @@
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": " ",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Lighthouse Labs",
+                "degree": "Software Development Diploma",
+                "graduated": "September 2018",
+                "description": "Full-time immersive Software Development Bootcamp.",
+                "logo": "images/lhllogo.png",
+                "logoSize": "medium"
             },
             {
-                "school": "School #1 Maybe College?",
-                "degree": "What did you study 101",
-                "graduated": "March 2003",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Lighthouse Labs",
+                "degree": "Front End Fundamentals",
+                "graduated": "February 2018",
+                "description": "Part-time Web Development front end fundamentals course.",
+                "logo": "images/lhllogo.png",
+                "logoSize": "medium"
+            },
+            {
+                "school": "PUCRS - Brazil",
+                "degree": "Bachelor's in Business Administration",
+                "graduated": "December 2013",
+                "description": " ",
+                "logo": "images/pucrs.png",
+                "logoSize": "large"
+            }
+        ],
+        "background": [
+            {
+                "title": "The Bank of Nova Scotia",
+                "subtitle": "Financial and Customer Adivsor",
+                "date": "May 2015 - June 2018",
+                "logo": "images/scotia.png",
+                "logoSize": "large"
+            },
+            {
+                "title": "Ernst & Young",
+                "subtitle": "IT Audit & Advisory Services",
+                "date": "August 2012 - August 2014",
+                "logo": "images/ey.png",
+                "logoSize": "large"
+            },
+            {
+                "title": "Yale University",
+                "subtitle": "Business Seminar",
+                "date": "June 2013 - August 2013",
+                "logo": "images/yale.png",
+                "logoSize": "large"
             }
         ],
         "work": [
             {
-                "company": "Awesome Design Studio",
-                "title": "Senior UX God ",
-                "years": "March 2010 - Present",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "Agreement Express",
+                "title": "Software Developer",
+                "years": "September 2018 - Present",
+                "description": "Agreement Express is the global leader in SaaS­based contract management software for the financial services industry. I am part of a team that builds responsive landing pages for payments companies. We also build dynamic Scorecards for Merchant and Owner analysis through various API integrations services.",
+                "stack": "React.js, Redux, Java, SQL",
+                "logo": "images/aex-paperclip.png",
+                "logoSize": "large"
             },
             {
-                "company": "Super Cool Studio",
-                "title": "Junior bug fixer",
-                "years": "March 2007 - February 2010",
-                "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+                "company": "Lighthouse Labs",
+                "title": "Project Evaluator",
+                "years": "February 2019 - Present",
+                "description": "As a project evaluator, I am responsible for providing feedback and grading bootcamp students throughout their program and projects.",
+                "logo": "images/lhllogo.png",
+                "logoSize": "medium"
             }
         ],
         "skills": [

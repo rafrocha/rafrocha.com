@@ -44,7 +44,14 @@ class About extends Component {
                             </div>
                             <div className="columns download">
                                 <p>
-                                    <a href={resumeDownload} className="button">
+                                    <a
+                                        href={
+                                            process.env.PUBLIC_URL +
+                                            resumeDownload
+                                        }
+                                        download
+                                        className="button"
+                                    >
                                         <i className="fa fa-download" />
                                         Download Resume
                                     </a>
