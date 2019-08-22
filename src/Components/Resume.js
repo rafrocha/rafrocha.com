@@ -60,17 +60,23 @@ class Resume extends Component {
                             <em className="date">{work.years}</em>
                         </p>
                         <p>{work.description}</p>
-                        {work.stack && <p>{`Stack: ${work.stack}`}</p>}
+                        {work.stack && (
+                            <p>
+                                <em>Stack: </em>
+                                {work.stack}
+                            </p>
+                        )}
                     </div>
                 );
             });
             var skills = this.props.data.skills.map(function(skills) {
-                var className = "bar-expand " + skills.name.toLowerCase();
+                var className = "skill-image " + skills.name.toLowerCase();
                 return (
-                    <li key={skills.name}>
-                        <span
-                            style={{ width: skills.level }}
+                    <li key={skills.name} className="skill-list">
+                        <img
                             className={className}
+                            alt={skills.name}
+                            src={skills.image}
                         />
                         <em>{skills.name}</em>
                     </li>
@@ -128,7 +134,7 @@ class Resume extends Component {
                     <div className="nine columns main-col">
                         <p>{skillmessage}</p>
 
-                        <div className="bars">
+                        <div className="">
                             <ul className="skills">{skills}</ul>
                         </div>
                     </div>
