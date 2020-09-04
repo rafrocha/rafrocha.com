@@ -1,219 +1,218 @@
 {
-    "main": {
-        "name": "Rafael Rocha",
-        "occupation": "Software Developer",
-        "description": "I am passioned about using logic to solve problems. Coding is a hobby and a career. Moved from Brazil to beautiful British Columbia in 2014.",
-        "image": "profilepic.jpg",
-        "bio": "I love challenges. Moving to Canada was the riskiest but also the best decision I have ever made. I love travelling and practicing sports. Having started (but not finished) a CS Degree in Brazil, I decided to leave the finance world and finally begin my career in the tech industry. Taking a Software Development Bootcamp was a great way to get back on track and freshen up my programming skills. Now I work as a Full Stack Developer and help bootcamp students reach their goals.",
-        "email": "rafaelmarianorocha@gmail.com",
-        "phone": "(778) 323-3909",
-        "address": {
-            "city": "Vancouver",
-            "state": "British Columbia"
-        },
-        "website": "http://www.rafrocha.com",
-        "resumedownload": "RafaelRocha_Resume.pdf",
-        "social": [
-            {
-                "name": "facebook",
-                "url": "https://www.facebook.com/rafael.rocha.334",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/rafael-rocha-b0005742",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "instagram",
-                "url": "http://instagram.com/rafaelcrm",
-                "className": "fa fa-instagram"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/rafrocha",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Rafael Rocha",
+    "occupation": "Software Developer",
+    "description": "I am passioned about using logic to solve problems. Coding is a hobby and a career. Moved from Brazil to beautiful British Columbia in 2014.",
+    "image": "profilepic.jpg",
+    "bio": "I love challenges. Moving to Canada was the riskiest but also the best decision I have ever made. I love travelling and practicing sports. Having started (but not finished) a CS Degree in Brazil, I decided to leave the finance world and finally begin my career in the tech industry. Taking a Software Development Bootcamp was a great way to get back on track and freshen up my programming skills. Now I work as a Full Stack Developer and help bootcamp students reach their goals.",
+    "email": "rafaelmarianorocha@gmail.com",
+    "phone": "(778) 323-3909",
+    "address": {
+      "city": "Vancouver",
+      "state": "British Columbia"
     },
-    "resume": {
-        "skillmessage": " ",
-        "education": [
-            {
-                "school": "Lighthouse Labs",
-                "degree": "Software Development Diploma",
-                "graduated": "September 2018",
-                "description": "Full-time immersive Software Development Bootcamp.",
-                "logo": "images/lhllogo.png",
-                "logoSize": "medium"
-            },
-            {
-                "school": "Lighthouse Labs",
-                "degree": "Front End Fundamentals",
-                "graduated": "February 2018",
-                "description": "Part-time Web Development front end fundamentals course.",
-                "logo": "images/lhllogo.png",
-                "logoSize": "medium"
-            },
-            {
-                "school": "PUCRS - Brazil",
-                "degree": "Bachelor's in Business Administration",
-                "graduated": "December 2013",
-                "description": " ",
-                "logo": "images/pucrs.png",
-                "logoSize": "large"
-            }
-        ],
-        "background": [
-            {
-                "title": "The Bank of Nova Scotia",
-                "subtitle": "Financial and Customer Advisor",
-                "date": "May 2015 - June 2018",
-                "logo": "images/scotia.png",
-                "logoSize": "large"
-            },
-            {
-                "title": "Ernst & Young",
-                "subtitle": "IT Audit & Advisory Services",
-                "date": "August 2012 - August 2014",
-                "logo": "images/ey.png",
-                "logoSize": "large"
-            },
-            {
-                "title": "Yale University",
-                "subtitle": "Business Seminar",
-                "date": "June 2013 - August 2013",
-                "logo": "images/yale.png",
-                "logoSize": "large"
-            }
-        ],
-        "work": [
-            {
-                "company": "Calabrio",
-                "title": "Software Developer",
-                "years": "September 2019 - Present",
-                "description": "Calabrio is the customer experience intelligence company that empowers organizations to enrich human interactions. I am part of the team working on our Calabrio ONE software - an intelligent, fully integrated Contact Center Workforce Optimization Suite.",
-                "stack": "React.js, Redux, Material UI, Sass, Jest, Java",
-                "logo": "images/calabrio.png",
-                "logoSize": "big"
-            },
-            {
-                "company": "Agreement Express",
-                "title": "Software Developer",
-                "years": "September 2018 - September 2019",
-                "description": "Agreement Express is the global leader in SaaS­ based contract management software for the financial services industry. I am part of a team that builds responsive landing pages for payments companies. We also build dynamic Scorecards for Merchant and Owner analysis through various API integrations services.",
-                "stack": "React.js, Redux, Material UI, Jest, Java, SQL",
-                "logo": "images/aex-paperclip.png",
-                "logoSize": "large"
-            },
-            {
-                "company": "Lighthouse Labs",
-                "title": "Project Evaluator",
-                "years": "February 2019 - Present",
-                "description": "As a project evaluator, I am responsible for providing feedback and grading bootcamp students throughout their program and projects.",
-                "logo": "images/lhllogo.png",
-                "logoSize": "medium"
-            }
-        ],
-        "skills": [
-            {
-                "name": "React",
-                "image": "images/Skills/React.png"
-            },
-            {
-                "name": "Redux",
-                "image": "images/Skills/redux.png"
-            },
-            {
-                "name": "Gatsby",
-                "image": "images/Skills/Gatsby.png"
-            },
-            {
-                "name": "TypeScript",
-                "image": "images/Skills/TypeScript.png"
-            },
-            {
-                "name": "JavaScript",
-                "image": "images/Skills/JavaScript.png"
-            },
-            {
-                "name": "Java",
-                "image": "images/Skills/java.png"
-            },
-            {
-                "name": "Sass",
-                "image": "images/Skills/Sass.png"
-            },
-            {
-                "name": "Storybook",
-                "image": "images/Skills/Storybook.png"
-            },
-            {
-                "name": "Jest",
-                "image": "images/Skills/Jest.png"
-            },
-            {
-                "name": "Webpack",
-                "image": "images/Skills/webpack.png"
-            },
-            {
-                "name": "Material UI",
-                "image": "images/Skills/MaterialUI.png"
-            },
-            {
-                "name": "Bootstrap",
-                "image": "images/Skills/Bootstrap.png"
-            },
-            {
-                "name": "SQL",
-                "image": "images/Skills/Sql.png"
-            },
-            {
-                "name": "Node.js",
-                "image": "images/Skills/Node.png"
-            },
-            {
-                "name": "Postgres",
-                "image": "images/Skills/Postgres.png"
-            },
-            {
-                "name": "MongoDB",
-                "image": "images/Skills/MongoDB.png"
-            }
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "Horde Land",
-                "category": "Multiplayer Online 2-D shooting game. No game engine used",
-                "image": "hordeland.png",
-                "url": "http://hordeland.herokuapp.com"
-            },
-            {
-                "title": "Chatty",
-                "category": "A React chat app built during Bootcamp. Github link. App not hosted",
-                "image": "chatty.png",
-                "url": "https://github.com/rafrocha/ChattyApp"
-            },
-            {
-                "title": "Bendito's",
-                "category": "Mock single restaurant order pick-up web app with Twillio API integration",
-                "image": "bendito.png",
-                "url": "http://bendito.herokuapp.com"
-            },
-            {
-                "title": "Resume Website",
-                "category": "A React based resume website",
-                "image": "resume.png",
-                "url": "https://www.rafrocha.com"
-            },
-            {
-                "title": "Oinker",
-                "category": "A very simple themed twitter clone. Built with jQuery and MongoDB",
-                "image": "oinker.png",
-                "url": "http://oinkerapp.herokuapp.com/"
-            }
-        ]
-    }
+    "website": "http://www.rafrocha.com",
+    "resumedownload": "RafaelRocha_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rafael.rocha.334",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rafrocha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/rafaelcrm",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rafrocha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Software Development Diploma",
+        "graduated": "September 2018",
+        "description": "Full-time immersive Software Development Bootcamp.",
+        "logo": "images/lhllogo.png",
+        "logoSize": "medium"
+      },
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Front End Fundamentals",
+        "graduated": "February 2018",
+        "description": "Part-time Web Development front end fundamentals course.",
+        "logo": "images/lhllogo.png",
+        "logoSize": "medium"
+      },
+      {
+        "school": "PUCRS - Brazil",
+        "degree": "Bachelor's in Business Administration",
+        "graduated": "December 2013",
+        "description": " ",
+        "logo": "images/pucrs.png",
+        "logoSize": "large"
+      }
+    ],
+    "background": [
+      {
+        "title": "The Bank of Nova Scotia",
+        "subtitle": "Financial and Customer Advisor",
+        "date": "May 2015 - June 2018",
+        "logo": "images/scotia.png",
+        "logoSize": "large"
+      },
+      {
+        "title": "Ernst & Young",
+        "subtitle": "IT Audit & Advisory Services",
+        "date": "August 2012 - August 2014",
+        "logo": "images/ey.png",
+        "logoSize": "large"
+      },
+      {
+        "title": "Yale University",
+        "subtitle": "Business Seminar",
+        "date": "June 2013 - August 2013",
+        "logo": "images/yale.png",
+        "logoSize": "large"
+      }
+    ],
+    "work": [
+      {
+        "company": "Calabrio",
+        "title": "Software Developer",
+        "years": "September 2019 - Present",
+        "description": "Calabrio is the customer experience intelligence company that empowers organizations to enrich human interactions. I am part of the Front-End team working on our Calabrio ONE software - an intelligent, fully integrated Contact Center Workforce Optimization Suite.",
+        "stack": "React.js, Redux, Material UI, Sass, Jest, Java",
+        "logo": "images/calabrio.png",
+        "logoSize": "big"
+      },
+      {
+        "company": "Agreement Express",
+        "title": "Software Developer",
+        "years": "September 2018 - September 2019",
+        "description": "Agreement Express is the global leader in SaaS­ based contract management software for the financial services industry. I was part of a team that built responsive landing pages for payments companies. We also built dynamic Scorecards for Merchant and Owner analysis through various API integrations services.",
+        "stack": "React.js, Redux, Material UI, Jest, Java, SQL",
+        "logo": "images/aex-paperclip.png",
+        "logoSize": "large"
+      },
+      {
+        "company": "Lighthouse Labs",
+        "title": "Project Evaluator",
+        "years": "February 2019 - Present",
+        "description": "As a project evaluator, I am responsible for providing feedback and grading bootcamp students throughout their program and projects.",
+        "logo": "images/lhllogo.png",
+        "logoSize": "medium"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "image": "images/Skills/React.png"
+      },
+      {
+        "name": "Redux",
+        "image": "images/Skills/redux.png"
+      },
+      {
+        "name": "Gatsby",
+        "image": "images/Skills/Gatsby.png"
+      },
+      {
+        "name": "TypeScript",
+        "image": "images/Skills/TypeScript.png"
+      },
+      {
+        "name": "JavaScript",
+        "image": "images/Skills/JavaScript.png"
+      },
+      {
+        "name": "Java",
+        "image": "images/Skills/java.png"
+      },
+      {
+        "name": "Sass",
+        "image": "images/Skills/Sass.png"
+      },
+      {
+        "name": "Storybook",
+        "image": "images/Skills/Storybook.png"
+      },
+      {
+        "name": "Jest",
+        "image": "images/Skills/Jest.png"
+      },
+      {
+        "name": "Webpack",
+        "image": "images/Skills/webpack.png"
+      },
+      {
+        "name": "Material UI",
+        "image": "images/Skills/MaterialUI.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "images/Skills/Bootstrap.png"
+      },
+      {
+        "name": "SQL",
+        "image": "images/Skills/Sql.png"
+      },
+      {
+        "name": "Node.js",
+        "image": "images/Skills/Node.png"
+      },
+      {
+        "name": "Postgres",
+        "image": "images/Skills/Postgres.png"
+      },
+      {
+        "name": "MongoDB",
+        "image": "images/Skills/MongoDB.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid-19 Live Tracker",
+        "category": "A SPA for worldwide covid tracking and data visualization.",
+        "image": "covidtracker.png",
+        "url": "https://covid-19-tracker-raf.web.app/"
+      },
+      {
+        "title": "Horde Land",
+        "category": "Multiplayer Online 2-D shooting game. No game engine used",
+        "image": "hordeland.png",
+        "url": "http://hordeland.herokuapp.com"
+      },
+      {
+        "title": "Chatty",
+        "category": "A React chat app built during Bootcamp. Github link. App not hosted",
+        "image": "chatty.png",
+        "url": "https://github.com/rafrocha/ChattyApp"
+      },
+      {
+        "title": "Bendito's",
+        "category": "Mock single restaurant order pick-up web app with Twillio API integration",
+        "image": "bendito.png",
+        "url": "http://bendito.herokuapp.com"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume.png",
+        "url": "https://www.rafrocha.com"
+      }
+    ]
+  }
 }
