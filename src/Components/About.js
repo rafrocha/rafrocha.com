@@ -1,7 +1,15 @@
 import React from 'react';
 
 const About = ({
-  data: { name, bio, image, city, state, phone, email, resumeDownload }
+  data: {
+    name,
+    bio,
+    image,
+    address: { city, state },
+    phone,
+    email,
+    resumeDownload
+  }
 }) => {
   const profilepic = 'images/' + image;
 

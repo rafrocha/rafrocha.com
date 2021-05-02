@@ -2,17 +2,17 @@
   "main": {
     "name": "Rafael Rocha",
     "occupation": "Software Developer",
-    "description": "I am passioned about using logic to solve problems. Coding is a hobby and a career. Moved from Brazil to beautiful British Columbia in 2014.",
+    "description": "I am passioned about using logic to solve problems. Coding is both my career and a hobby. Moved from Brazil to beautiful British Columbia in 2014.",
     "image": "profilepic.jpg",
-    "bio": "I love challenges. Moving to Canada was the riskiest but also the best decision I have ever made. I love travelling and practicing sports. Having started (but not finished) a CS Degree in Brazil, I decided to leave the finance world and finally begin my career in the tech industry. Taking a Software Development Bootcamp was a great way to get back on track and freshen up my programming skills. Now I work as a Full Stack Developer and help bootcamp students reach their goals.",
+    "bio": "I love challenges. Moving to Canada was the riskiest but also the best decision I have ever made. I love travelling and practicing sports. Having studied Computer Science in Brazil, taking a Software Development Bootcamp was a great way to get back on track and freshen up my programming skills. Currently I work as a Full Stack Developer and help bootcamp students reach their goals.",
     "email": "rafaelmarianorocha@gmail.com",
     "phone": "(778) 323-3909",
     "address": {
       "city": "Vancouver",
       "state": "British Columbia"
     },
-    "website": "http://www.rafrocha.com",
-    "resumedownload": "RafaelRocha_Resume.pdf",
+    "website": "https://www.rafrocha.com",
+    "resumeDownload": "RafaelRocha_Resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -61,6 +61,14 @@
         "description": " ",
         "logo": "images/pucrs.png",
         "logoSize": "large"
+      },
+      {
+        "school": "PUCRS - Brazil",
+        "degree": "Bachelor's in Computer Science",
+        "graduated": "December 2013 - Incomplete",
+        "description": "Moved to Canada before completing graduation.",
+        "logo": "images/pucrs.png",
+        "logoSize": "large"
       }
     ],
     "background": [
@@ -91,8 +99,8 @@
         "company": "Calabrio",
         "title": "Software Developer",
         "years": "September 2019 - Present",
-        "description": "Calabrio is the customer experience intelligence company that empowers organizations to enrich human interactions. I am part of the Front-End team working on our Calabrio ONE software - an intelligent, fully integrated Contact Center Workforce Optimization Suite.",
-        "stack": "React.js, Redux, Material UI, Sass, Jest, Java",
+        "description": "Calabrio is the customer experience intelligence company that empowers organizations to enrich human interactions. As a member of the Front-End team working on our Calabrio ONE software, our team is also responsible for maintaining and building APIs where our FE stack feeds from. ",
+        "stack": "React.js, Redux, Material UI, Sass, Jest, Webpack, Java, Jenkins and AWS s3 Buckets.",
         "logo": "images/calabrio.png",
         "logoSize": "big"
       },

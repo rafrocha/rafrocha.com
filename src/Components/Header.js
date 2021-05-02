@@ -1,6 +1,14 @@
 import React from 'react';
 
-const Header = ({ data: { name, occupation, description, city, social } }) => {
+const Header = ({
+  data: {
+    name,
+    occupation,
+    description,
+    address: { city },
+    social
+  }
+}) => {
   const networks = social.map(network => (
     <li key={network.name}>
       <a href={network.url}>
@@ -47,8 +55,8 @@ const Header = ({ data: { name, occupation, description, city, social } }) => {
         <div className="banner-text">
           <h1 className="responsive-headline">I'm {name}.</h1>
           <h3>
-            I'm a <span>{city}</span> based <span>{occupation}</span>.{' '}
-            {description}.
+            A <span>{city}</span> based <span>{occupation}</span>. {description}
+            .
           </h3>
           <hr />
           <ul className="social">{networks}</ul>
