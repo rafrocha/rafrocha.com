@@ -6,7 +6,6 @@
     "image": "profilepic.jpg",
     "bio": "I love challenges. Moving to Canada was the riskiest but also the best decision I have ever made. I love travelling and practicing sports. Having studied Computer Science in Brazil, taking a Software Development Bootcamp was a great way to get back on track and freshen up my programming skills. Currently I work as a Full Stack Developer and help bootcamp students reach their goals.",
     "email": "rafaelmarianorocha@gmail.com",
-    "phone": "(778) 323-3909",
     "address": {
       "city": "Vancouver",
       "state": "British Columbia"
@@ -96,9 +95,18 @@
     ],
     "work": [
       {
+        "company": "Amazon Inc.",
+        "title": "Frontend Engineer",
+        "years": "August 2021 - Present",
+        "description": "Frontend Engineer for the Amazon Compensation Technology team.",
+        "stack": "React.js, TypeScript, Redux, React-query, AWS Stack, Jest, Cypress, Webpack.",
+        "logo": "images/amazon.png",
+        "logoSize": "big"
+      },
+      {
         "company": "Calabrio",
         "title": "Software Developer",
-        "years": "September 2019 - Present",
+        "years": "September 2019 - August 2021",
         "description": "Calabrio is the customer experience intelligence company that empowers organizations to enrich human interactions. As a member of the Front-End team working on our Calabrio ONE software, our team is also responsible for maintaining and building APIs where our FE stack feeds from. ",
         "stack": "React.js, Redux, Material UI, Sass, Jest, Webpack, Java, Jenkins and AWS s3 Buckets.",
         "logo": "images/calabrio.png",

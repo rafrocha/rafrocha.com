@@ -6,7 +6,6 @@ const About = ({
     bio,
     image,
     address: { city, state },
-    phone,
     email,
     resumeDownload
   }
@@ -32,8 +31,6 @@ const About = ({
                 <span>
                   {city} <br /> {state}
                 </span>
-                <br />
-                <span>{phone}</span>
                 <br />
                 <span>{email}</span>
               </p>

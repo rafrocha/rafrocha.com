@@ -53,7 +53,7 @@ const Header = ({
 
       <div className="row banner">
         <div className="banner-text">
-          <h1 className="responsive-headline">I'm {name}.</h1>
+          <h1 className="responsive-headline">Hi, I'm {name}.</h1>
           <h3>
             A <span>{city}</span> based <span>{occupation}</span>. {description}
             .
